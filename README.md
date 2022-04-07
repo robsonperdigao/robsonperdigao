@@ -1,9 +1,11 @@
 ## Eu sou o Robson Perdigão
 
+Entusiasta de tecnologia desde que me entendo por gente, hoje utilizo a programação no mercado financeiro para obter informações, estudos e análises para tomada de decisão nos investimentos (ou por curiosidades também).<br></br>
+
 <div align="left">
   <a href="https://github.com/operdigao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=operdigao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operdigao&layout=compact&langs_count=7&theme=dark&locale=pt-br" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operdigao&layout=compact&langs_count=5&theme=dark&locale=pt-br" />
   </a>
 </div>
 
