@@ -1,11 +1,9 @@
 ## Eu sou o Robson Perdigão
 
-<div>
+<div align="left">
   <a href="https://github.com/operdigao">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=operdigao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/operdigao">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operdigao&layout=compact&langs_count=7&theme=dark&locale=pt-br" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=operdigao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operdigao&layout=compact&langs_count=7&theme=dark&locale=pt-br" />
   </a>
 </div>
 
