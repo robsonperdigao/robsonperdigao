@@ -9,6 +9,4 @@ Entusiasta de tecnologia desde que me entendo por gente, hoje utilizo a programa
   <a href="https://www.linkedin.com/in/robsonperdigao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:robson.perdigao@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/robsonperdigao/robsonperdigao/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
