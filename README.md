@@ -1,8 +1,18 @@
 ## Eu sou o Robson Perdigão
 
-Me chamo Robson Perdigão, sou Assessor de Investimentos na InvestSmart. Investidor desde 2012, trader desde 2018 e Assessor desde 2020. 2023 foi o ano para entrar no mundo das Finanças Quantitativas com o objetivo de melhorar a performance dos meus investimentos e auxiliar os investidores a tomar melhores decisões.
+Engenheiro de Software em transição de uma carreira em Engenharia Civil e Finanças. Ofereço uma combinação única de expertise técnica, visão de negócios e habilidades de resolução de problemas para o mundo do desenvolvimento de software. Proficiente em Python, C# e VBA, com um histórico sólido na criação de automações impactantes e soluções baseadas em dados.
+
+Destaques principais:
+
+- Reduzi o tempo operacional em 4 horas semanais através de automações em Python na análise de investimentos.
+- Aumentei a produtividade da equipe em 30% e a receita da empresa em 240% por meio de implementações de processos inovadores e soluções de software personalizadas.
+- Desenvolvi 25 estratégias de trading automatizadas, demonstrando a capacidade de aplicar habilidades de programação a cenários financeiros complexos.
+- Criei uma solução web abrangente para análise financeira utilizando Python, GitHub e Streamlit, permitindo organização de informações de clientes, análise de finanças e investimentos, e cálculos de planejamento sucessório e independência financeira.
+
+Apaixonado por utilizar tecnologia para impulsionar eficiência e crescimento, combino o pensamento analítico da engenharia com a mentalidade orientada a resultados das finanças. Ansioso para contribuir com meu conjunto diversificado de habilidades e dedicação ao aprendizado contínuo.
+Buscando oportunidades para criar soluções de software inovadoras que gerem impacto no mundo real.
 <br></br>
-Finanças quantitativas é uma disciplina que se concentra na aplicação de modelos matemáticos, finanças e tecnologia para analisar e tomar decisões financeiras. Essa abordagem usa dados históricos e algoritmos para avaliar riscos, precificar ativos e otimizar portfólios, tornando-se uma ferramenta valiosa para investidores e profissionais financeiros na tomada de decisões baseadas em evidências numéricas. No menu ao lado você encontra as principais ferramentas para obter informações sobre os mais diversos ativos, tirar insights e analisar portfolios da forma que deseja..<br></br>
+<br></br>
 
 ##
 
